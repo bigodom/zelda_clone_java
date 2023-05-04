@@ -1,0 +1,11 @@
+alt + insert: abre a janela de comandos
+ctrl + alt + o: limpa os imports não utilizados
+ctrl + alt + l: formata o código
+ctrl + alt + m: extrai o código selecionado para um método
+ctrl + b: vai para a declaração do método
+ctrl + shift + seta para cima/baixo: move a linha para cima/baixo
+ctrl + n: busca por classes
+ctrl + shift + n: busca por arquivos
+ctrl + f4: fecha a aba
+shift + f6: renomeia variável
+shift + shift: busca por qualquer coisa
