@@ -1,0 +1,41 @@
+PROBLEMA DA DIETA
+
+Xi = quant de vitamina do alimento i
+
+minimizar o(x) = 2X1 + 4X2 + 1,5X3 + 1X4
+
+s.a:
+
+2X1 + 2X2+ 10X3 + 20X4 >= 11
+50X1 + 20X2+ 10X3 + 30X4 >= 70
+80X1 + 70X2+ 10X3 + 80X4 >= 250
+X1, X2, X3, X4 >= 0
+
+PROBLEMA DAS MÁQUINAS
+
+xi = quantidade de produto i produzido
+
+maximizar o(x) = 10x1 + 8x2 + 9x3 + 7x4
+
+s.a:
+
+5x1 + 4x2 + 5x3 + 9x4 <= 80
+2x1 + 6x2 + 0x3 + 8x4 <= 20
+2x1 + 4x2 + 2x3 + 8x4 <= 120
+7x1 + 3x2 + 0x3 + 7x4 <= 160
+x1, x2, x3, x4 >= 0
+
+PROBLEMA DO SÍTIO
+
+xi = quant de m2 de cada cultura
+
+maximizar o(x) = 10,8*0,2x1 + 4,2*0,3x2 + 2,03*0,4x3;
+
+s.a:
+
+0,2x1 + 0,3x2 + 0,4x3 <= 60000
+x1 + x2 + x3 <= 200000
+x1 >= 400
+x2 >= 800
+x3 >= 10000
+x1, x2, x3 >= 0
